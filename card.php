@@ -9,7 +9,7 @@
     <div class="row">
         <div class="col-sm-4">
             <div class="card">
-                <img class="card-img-top" src="img/flower/pic1.1.jpg">
+                <img class="card-img-top" src="pic1.1.jpg">
                 <div class="card-body">
                     <h4>Forget-Me-Not</h4>
                     <p class="card-text">Yes, it's all in the name! Forget-me-nots ask that you forget-me-not.<p>
@@ -19,7 +19,7 @@
         </div>
         <div class="col-sm-4">
             <div class="card">
-                <img class="card-img-top" src="img/flower/pic2.2.jpg">
+                <img class="card-img-top" src="pic2.2.jpg">
                 <div class="card-body">
                     <h4>White Jasmine</h4>
                     <p class="card-text">There's a reason this fragrant flower often shows up in perfume. <p>
@@ -30,7 +30,7 @@
         </div>
         <div class="col-sm-4">
     <div class="card">
-                    <img class="card-img-top" src="img/flower/pic3.3.jpg" >
+                    <img class="card-img-top" src="pic3.3.jpg" >
                     <div class="card-body">
                         <h4 class="card-title">Daisy</h4>
                         <p class="card-text">it's only fitting that they represent innocence. <p>
