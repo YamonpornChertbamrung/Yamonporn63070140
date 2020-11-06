@@ -12,7 +12,7 @@
         <div class="row">
             <div class="col-sm-6">
                 <img 
-                src="img/creative/creative.jpg" 
+                src="creative.jpg" 
                 style= "height: 100%; width: 100%"
                 class="img-fluid"
                 />
