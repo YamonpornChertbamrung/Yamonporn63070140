@@ -18,13 +18,13 @@
                 />
             </div>
             <div class="col-sm-2">
-                <img src="img/life/life.jpg" style= "height: 33.3%; width: 100%" class="img-fluid img-thumbnail" />
-                <img src="img/life/life4.jpg" style= "height: 33.3%; width: 100%" class="img-fluid img-thumbnail" />
-                <img src="img/life/life8.jpg" style= "height: 33.3%; width: 100%" class="img-fluid img-thumbnail" /> 
+                <img src="life.jpg" style= "height: 33.3%; width: 100%" class="img-fluid img-thumbnail" />
+                <img src="life4.jpg" style= "height: 33.3%; width: 100%" class="img-fluid img-thumbnail" />
+                <img src="life8.jpg" style= "height: 33.3%; width: 100%" class="img-fluid img-thumbnail" /> 
             </div>
             <div class="col-sm-4">
-                <img src="img/work/work2.jpg" style= "height: 80%; width: 100%" class="img-fluid img-thumbnail" />
-                <img src="img/content/office1.jpg" style= "height: 20%; width: 100%" class="img-fluid img-thumbnail" />
+                <img src="work2.jpg" style= "height: 80%; width: 100%" class="img-fluid img-thumbnail" />
+                <img src="office1.jpg" style= "height: 20%; width: 100%" class="img-fluid img-thumbnail" />
             </div>
         </div> <!-- Close Row 1 -->
     </div> <!-- Close container -->
