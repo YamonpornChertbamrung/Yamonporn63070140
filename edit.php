@@ -28,7 +28,7 @@
 
   <body>
       <div class="container">
-          <div class="card-header bg-primary text-white d-flex justify-content-between">
+          <div class="container p-3 my-3 bg-dark text-white">
            <h3>EDIT</h3>
            <a href="show.php" class="btn btn-light">BACK</a>
           </div>
