@@ -50,7 +50,7 @@ while($Result = mysqli_fetch_array($res))
 <?php
 }
 ?>
-<a href="form.php" class="btn btn-success">ADD</a>
+<a href="form.php" class="btn btn-muted">ADD</a>
 </table>
 <?php
 mysqli_close($conn);
