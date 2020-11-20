@@ -28,7 +28,7 @@ $res = mysqli_query($conn, 'SELECT * FROM guestbook');
               <th width="300">
                 <div align="center">Comment </div>
               </th>
-              <th width="300">
+              <th width="500">
                 <div align="center">Action</div>
               </th>
             </tr>
