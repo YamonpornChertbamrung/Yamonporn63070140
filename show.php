@@ -29,9 +29,6 @@ $res = mysqli_query($conn, 'SELECT * FROM guestbook');
                 <div align="center">Comment </div>
               </th>
               <th width="300">
-                <div align="center">Link </div>
-              </th>
-              <th width="300">
                 <div align="center">Action</div>
               </th>
             </tr>
