@@ -24,9 +24,9 @@
       #roundCorners{
       border-radius: 25px;
       padding: 10px;
-      width: 100px;
+      width: 500px;
       height: 70px;
-      background: lightblue;
+      background: Dark;
       }
       </style>
   </head>
