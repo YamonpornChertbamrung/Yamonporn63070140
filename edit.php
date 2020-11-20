@@ -21,22 +21,11 @@
       <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
   </head>
 
-  <body>
-      <form class="form-signin">
-  <h1 class="h3 mb-3 font-weight-normal">Please Edit</h1>
-  <label for="inputEmail" class="sr-only">Email address</label>
-  <input type="email" id="inputEmail" class="form-control" placeholder="Email address" required="" autofocus="">
-  <label for="inputPassword" class="sr-only">Password</label>
-  <input type="password" id="inputPassword" class="form-control" placeholder="Password" required="">
-  <div class="checkbox mb-3">
-    <label>
-      <input type="checkbox" value="remember-me"> Remember me
-    </label>
-  </div>
-  <button class="btn btn-lg btn-primary btn-block" type="submit">EDIT</button>
-</form>
-
-          <a href="show.php" class="btn btn-light">BACK</a>
+   <body>
+      <div class="container">
+          <div class="card-header bg-primary text-white d-flex justify-content-between">
+           <h3>EDIT</h3>
+           <a href="index.php" class="btn btn-light">BACK</a>
           </div>
           <form action="update.php" method="post" id="CommentForm">
               <div class="form-group mt-5">
@@ -52,5 +41,6 @@
           </form>
       </div>
   </body>
+
 
   </html>
