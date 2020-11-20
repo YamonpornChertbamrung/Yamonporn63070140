@@ -47,8 +47,10 @@
       <td><?php echo $Result['Comment'];?></td>
       <td><?php echo $Result['Link'];?></td>
       <td>
-        <a class="btn btn-info" href="delete.php?ID=<?php echo $Result['ID']; ?>">ลบ</a>
-        <a class="btn btn-warning" href="edit.php?ID=<?php echo $Result['ID']; ?>">แก้ไข</a>
+        <center>
+          <a class="btn btn-info" href="delete.php?ID=<?php echo $Result['ID']; ?>">ลบ</a>
+          <a class="btn btn-warning" href="edit.php?ID=<?php echo $Result['ID']; ?>">แก้ไข</a>
+        </center>
       </td>
     </tr>
   <?php
