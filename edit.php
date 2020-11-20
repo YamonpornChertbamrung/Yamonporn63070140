@@ -22,8 +22,9 @@
   </head>
 
   <body>
-      <div class="container">
-          <div class="card-header bg-primary text-white d-flex justify-content-between">
+      <div id="top-bar">
+        <div id="topinfo">                            
+        </div>
            <h3>EDIT</h3>
            <a href="show.php" class="btn btn-light">BACK</a>
           </div>
