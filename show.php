@@ -44,7 +44,7 @@ while($Result = mysqli_fetch_array($res))
     <td><?php echo $Result['Link'];?></td>
     <td>
       <a class="btn btn-success" href="edit.php?ID=<?php echo $Result['ID']; ?>">EDIT</a>
-      <a class="btn btn-darksalmon" href="delete.php?ID=<?php echo $Result['ID']; ?>">DELETE</a>
+      <a class="btn btn-info" href="delete.php?ID=<?php echo $Result['ID']; ?>">DELETE</a>
     </td>
   </tr>
 <?php
