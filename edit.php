@@ -19,14 +19,21 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+      <style>
+      }
+      #roundCorners{
+      border-radius: 25px;
+      padding: 10px;
+      width: 100px;
+      height: 70px;
+      background: lightblue;
+      }
+      </style>
   </head>
 
   <body>
-      <div id="top-bar">
-        <div id="topinfo">                            
-        </div>
-           <h3>EDIT</h3>
-           <a href="show.php" class="btn btn-light">BACK</a>
+      <p id="roundCorners">EDIT</p>
+          <a href="show.php" class="btn btn-light">BACK</a>
           </div>
           <form action="update.php" method="post" id="CommentForm">
               <div class="form-group mt-5">
