@@ -1,6 +1,6 @@
 <?php
 $conn = mysqli_connect('itflabs02.mysql.database.azure.com', 'yamonporn@itflabs02', 'Modji2002', 'ITFlab');
-$sql = 'DELETE FROM guestboook WHERE ID = ' . $_GET['ID'] . '';
+$sql = 'DELETE FROM guestbook WHERE ID = ' . $_GET['ID'] . '';
 
 ?>
 <!DOCTYPE html>
