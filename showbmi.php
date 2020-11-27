@@ -51,6 +51,7 @@
   }
   ?>
   </table>
+  <a href="formexam.php" class="btn btn-success">ADD</a>
   <?php
   mysqli_close($conn);
   ?>
