@@ -17,7 +17,7 @@
   {
       die('Failed to connect to MySQL: '.mysqli_connect_error());
   }
-  $res = mysqli_query($conn, 'SELECT * FROM guestbook');
+  $res = mysqli_query($conn, 'SELECT * FROM bmical');
   ?>
    <div class="container">
     <table class="table table-dark">
@@ -44,8 +44,9 @@
   ?>
     <tr>
       <td><?php echo $Result['Name'];?></div></td>
-      <td><?php echo $Result['Comment'];?></td>
-      <td><?php echo $Result['Link'];?></td>
+      <td><?php echo $Result['Weight'];?></td>
+      <td><?php echo $Result['Height'];?></td>
+      <td><?php echo $Result['bmi'];?></td>
     </tr>
   <?php
   }
